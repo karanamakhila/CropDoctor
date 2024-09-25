@@ -1,3 +1,44 @@
 flask
 Flask
-
+bcrypt
+random
+smtplib
+pymongo
+email
+typing
+math
+bson
+io
+flask_pymongo
+import numpy as np
+import keras.models
+import tensorflow as tf
+from tensorflow.keras.utils import img_to_array
+import re
+import os
+import base64
+from keras.preprocessing import image
+import os
+import torch
+import dill as dill
+from torchvision import models
+import torchvision.transforms as transforms   # for transforming images into tensors 
+from torchvision.datasets import ImageFolder  # for working with classes and images
+import torch.nn.functional as F # for functions for calculating loss
+import torch.nn as nn           # for creating  neural networks
+import numpy as np 
+from PIL import Image
+from resnet import ResNet
+import wikipedia
+from matplotlib import pyplot as plt
+from matplotlib import image as mpimg
+import os
+import torch
+import dill as dill
+from torchvision import models
+import torchvision.transforms as transforms   # for transforming images into tensors 
+from torchvision.datasets import ImageFolder  # for working with classes and images
+import torch.nn.functional as F # for functions for calculating loss
+import torch.nn as nn           # for creating  neural networks
+import numpy as np 
+from PIL import Image
