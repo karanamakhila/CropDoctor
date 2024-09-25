@@ -1,0 +1,12 @@
+flask
+Flas
+Blueprint 
+render_template 
+url_for 
+redirect 
+request 
+session
+bcrypt
+random
+smtplib
+pymongo
