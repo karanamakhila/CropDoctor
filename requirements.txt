@@ -1,7 +1,6 @@
 flask
 Flask
 bcrypt
-smtplib
 pymongo
 email
 typing
