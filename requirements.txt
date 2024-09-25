@@ -1,7 +1,6 @@
 flask
 Flask
 bcrypt
-random
 smtplib
 pymongo
 email
